@@ -1,2 +1,2 @@
 # gpt_Dingwen
-realize small gpt by mself
+realize small gpt by myself
